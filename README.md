@@ -1,14 +1,6 @@
 # Federated Learning for Skin Cancer Segmentation — Project Report
 
-**Title:** A Secure Federated Segmentation System for Skin Cancer Diagnosis Using U-Net and Distributed Medical Imaging Data
-**University:** University of Asia Pacific (UAP)
-**Department:** Computer Science and Engineering
-**Supervisor:** Dr. Nasima Begum | **Co-Supervisor:** Rashik Rahman
 
-**Team:**
-- Abdullah All Shamayel (22101193)
-- Tukhor Chakma (22101187)
-- Kholilur Rahman (22101191)
 
 ---
 
